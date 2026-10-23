@@ -1,0 +1,5 @@
+interface:
+  display_name: "ThreeUI 3D Pages"
+  short_description: "Build polished Three.js pages from the ThreeUI catalog"
+  brand_color: "#111111"
+  default_prompt: "Use $threeui-3d-pages to design and implement a polished 3D landing page."
